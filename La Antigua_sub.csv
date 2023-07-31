@@ -1,0 +1,92 @@
+ID,IDENTIFI,NOM_MIC,CODIGO,AREA_HA,CVEGEO,NOM_ENT,NOM_MUN,AREA_MUN
+45,13,XALAPA-ENRIQUEZ,28-119-05-001,9705,30001,Veracruz de Ignacio de la Llave,Acajete,188
+50,14,RANCHO VIEJO,28-119-05-002,10431,30001,Veracruz de Ignacio de la Llave,Acajete,3807
+4,2,RINCONADA,28-119-09-001,12259,30017,Veracruz de Ignacio de la Llave,Apazapan,4916
+16,6,ESTACION CHAVARRILLO,28-119-08-001,6946,30017,Veracruz de Ignacio de la Llave,Apazapan,863
+20,7,Tlaltetela (Tlaltetela),28-119-05-008,9670,30017,Veracruz de Ignacio de la Llave,Apazapan,0
+38,11,TEOCELO,28-119-05-007,11684,30025,Veracruz de Ignacio de la Llave,Ayahualulco,1094
+59,16,XICO,28-119-05-004,9405,30025,Veracruz de Ignacio de la Llave,Ayahualulco,4
+63,17,TONALACO,28-119-05-005,10513,30025,Veracruz de Ignacio de la Llave,Ayahualulco,604
+70,18,IXHUACAN DE LOS REYES,28-119-07-001,14596,30025,Veracruz de Ignacio de la Llave,Ayahualulco,8163
+75,19,TOZIHUIC,28-119-07-004,4755,30025,Veracruz de Ignacio de la Llave,Ayahualulco,0
+82,20,CHICHIQUILA,28-119-07-002,20212,30029,Veracruz de Ignacio de la Llave,Calcahualco,3
+73,19,TOZIHUIC,28-119-07-004,4755,21050,Puebla,Chichiquila,227
+78,20,CHICHIQUILA,28-119-07-002,20212,21050,Puebla,Chichiquila,9397
+67,18,IXHUACAN DE LOS REYES,28-119-07-001,14596,21058,Puebla,Chilchotla,1226
+72,19,TOZIHUIC,28-119-07-004,4755,21058,Puebla,Chilchotla,4
+77,20,CHICHIQUILA,28-119-07-002,20212,21058,Puebla,Chilchotla,60
+86,21,QUIMIXTLAN,28-119-07-005,7349,21058,Puebla,Chilchotla,2151
+88,22,RAFAEL J. GARCIA,28-119-07-003,12123,21058,Puebla,Chilchotla,10952
+17,6,ESTACION CHAVARRILLO,28-119-08-001,6946,30038,Veracruz de Ignacio de la Llave,Coatepec,1106
+22,7,Tlaltetela (Tlaltetela),28-119-05-008,9670,30038,Veracruz de Ignacio de la Llave,Coatepec,468
+34,10,TUZAMAPAN,28-119-05-006,5623,30038,Veracruz de Ignacio de la Llave,Coatepec,4812
+46,13,XALAPA-ENRIQUEZ,28-119-05-001,9705,30038,Veracruz de Ignacio de la Llave,Coatepec,4838
+51,14,RANCHO VIEJO,28-119-05-002,10431,30038,Veracruz de Ignacio de la Llave,Coatepec,4105
+56,15,SAN MARCOS DE LEON (SAN MARCOS),28-119-05-003,12109,30038,Veracruz de Ignacio de la Llave,Coatepec,4790
+60,16,XICO,28-119-05-004,9405,30038,Veracruz de Ignacio de la Llave,Coatepec,30
+39,11,TEOCELO,28-119-05-007,11684,30046,Veracruz de Ignacio de la Llave,Cosautlán de Carvajal,4378
+43,12,Tlaltetela (Pinillos),28-119-05-009,5097,30046,Veracruz de Ignacio de la Llave,Cosautlán de Carvajal,2829
+83,20,CHICHIQUILA,28-119-07-002,20212,30046,Veracruz de Ignacio de la Llave,Cosautlán de Carvajal,455
+7,2,RINCONADA,28-119-09-001,12259,30065,Veracruz de Ignacio de la Llave,Emiliano Zapata,1939
+19,6,ESTACION CHAVARRILLO,28-119-08-001,6946,30065,Veracruz de Ignacio de la Llave,Emiliano Zapata,2171
+35,10,TUZAMAPAN,28-119-05-006,5623,30065,Veracruz de Ignacio de la Llave,Emiliano Zapata,184
+48,13,XALAPA-ENRIQUEZ,28-119-05-001,9705,30065,Veracruz de Ignacio de la Llave,Emiliano Zapata,12
+85,20,CHICHIQUILA,28-119-07-002,20212,30071,Veracruz de Ignacio de la Llave,Huatusco,749
+40,11,TEOCELO,28-119-05-007,11684,30079,Veracruz de Ignacio de la Llave,Ixhuacán de los Reyes,2445
+64,17,TONALACO,28-119-05-005,10513,30079,Veracruz de Ignacio de la Llave,Ixhuacán de los Reyes,7073
+71,18,IXHUACAN DE LOS REYES,28-119-07-001,14596,30079,Veracruz de Ignacio de la Llave,Ixhuacán de los Reyes,3916
+76,19,TOZIHUIC,28-119-07-004,4755,30079,Veracruz de Ignacio de la Llave,Ixhuacán de los Reyes,56
+84,20,CHICHIQUILA,28-119-07-002,20212,30079,Veracruz de Ignacio de la Llave,Ixhuacán de los Reyes,1495
+6,2,RINCONADA,28-119-09-001,12259,30088,Veracruz de Ignacio de la Llave,Jalcomulco,1215
+10,3,Tlaltetela (Xotla),28-119-09-003,7174,30088,Veracruz de Ignacio de la Llave,Jalcomulco,140
+18,6,ESTACION CHAVARRILLO,28-119-08-001,6946,30088,Veracruz de Ignacio de la Llave,Jalcomulco,2811
+23,7,Tlaltetela (Tlaltetela),28-119-05-008,9670,30088,Veracruz de Ignacio de la Llave,Jalcomulco,2612
+25,8,Tlaltetela (Poxtla),28-119-09-004,19686,30088,Veracruz de Ignacio de la Llave,Jalcomulco,478
+29,9,TLACUATZINTLA,28-119-09-007,5004,30088,Veracruz de Ignacio de la Llave,Jalcomulco,21
+1,1,CABEZAS,28-119-09-002,12965,30016,Veracruz de Ignacio de la Llave,La Antigua,3717
+69,18,IXHUACAN DE LOS REYES,28-119-07-001,14596,21093,Puebla,Lafragua,954
+90,22,RAFAEL J. GARCIA,28-119-07-003,12123,21093,Puebla,Lafragua,765
+54,14,RANCHO VIEJO,28-119-05-002,10431,30132,Veracruz de Ignacio de la Llave,Las Vigas de Ramírez,90
+2,1,CABEZAS,28-119-09-002,12965,30126,Veracruz de Ignacio de la Llave,Paso de Ovejas,3263
+53,14,RANCHO VIEJO,28-119-05-002,10431,30128,Veracruz de Ignacio de la Llave,Perote,914
+62,16,XICO,28-119-05-004,9405,30128,Veracruz de Ignacio de la Llave,Perote,201
+3,1,CABEZAS,28-119-09-002,12965,30134,Veracruz de Ignacio de la Llave,Puente Nacional,5986
+8,2,RINCONADA,28-119-09-001,12259,30134,Veracruz de Ignacio de la Llave,Puente Nacional,1516
+11,3,Tlaltetela (Xotla),28-119-09-003,7174,30134,Veracruz de Ignacio de la Llave,Puente Nacional,3912
+13,4,MATA DE JOBO,28-119-09-005,5167,30134,Veracruz de Ignacio de la Llave,Puente Nacional,4949
+15,5,HATO DE LA HIGUERA,28-119-09-006,5158,30134,Veracruz de Ignacio de la Llave,Puente Nacional,5161
+30,9,TLACUATZINTLA,28-119-09-007,5004,30134,Veracruz de Ignacio de la Llave,Puente Nacional,58
+68,18,IXHUACAN DE LOS REYES,28-119-07-001,14596,21116,Puebla,Quimixtlán,339
+74,19,TOZIHUIC,28-119-07-004,4755,21116,Puebla,Quimixtlán,4469
+79,20,CHICHIQUILA,28-119-07-002,20212,21116,Puebla,Quimixtlán,5903
+87,21,QUIMIXTLAN,28-119-07-005,7349,21116,Puebla,Quimixtlán,5198
+89,22,RAFAEL J. GARCIA,28-119-07-003,12123,21116,Puebla,Quimixtlán,399
+26,8,Tlaltetela (Poxtla),28-119-09-004,19686,30162,Veracruz de Ignacio de la Llave,Tenampa,6366
+31,9,TLACUATZINTLA,28-119-09-007,5004,30162,Veracruz de Ignacio de la Llave,Tenampa,157
+36,10,TUZAMAPAN,28-119-05-006,5623,30164,Veracruz de Ignacio de la Llave,Teocelo,558
+41,11,TEOCELO,28-119-05-007,11684,30164,Veracruz de Ignacio de la Llave,Teocelo,3768
+44,12,Tlaltetela (Pinillos),28-119-05-009,5097,30164,Veracruz de Ignacio de la Llave,Teocelo,330
+58,15,SAN MARCOS DE LEON (SAN MARCOS),28-119-05-003,12109,30164,Veracruz de Ignacio de la Llave,Teocelo,1270
+66,17,TONALACO,28-119-05-005,10513,30164,Veracruz de Ignacio de la Llave,Teocelo,156
+80,20,CHICHIQUILA,28-119-07-002,20212,21179,Puebla,Tlachichuca,638
+91,22,RAFAEL J. GARCIA,28-119-07-003,12123,21179,Puebla,Tlachichuca,7
+49,13,XALAPA-ENRIQUEZ,28-119-05-001,9705,30182,Veracruz de Ignacio de la Llave,Tlalnelhuayocan,1899
+55,14,RANCHO VIEJO,28-119-05-002,10431,30182,Veracruz de Ignacio de la Llave,Tlalnelhuayocan,1518
+5,2,RINCONADA,28-119-09-001,12259,30024,Veracruz de Ignacio de la Llave,Tlaltetela,2682
+9,3,Tlaltetela (Xotla),28-119-09-003,7174,30024,Veracruz de Ignacio de la Llave,Tlaltetela,3127
+12,4,MATA DE JOBO,28-119-09-005,5167,30024,Veracruz de Ignacio de la Llave,Tlaltetela,70
+21,7,Tlaltetela (Tlaltetela),28-119-05-008,9670,30024,Veracruz de Ignacio de la Llave,Tlaltetela,6595
+24,8,Tlaltetela (Poxtla),28-119-09-004,19686,30024,Veracruz de Ignacio de la Llave,Tlaltetela,7518
+28,9,TLACUATZINTLA,28-119-09-007,5004,30024,Veracruz de Ignacio de la Llave,Tlaltetela,3849
+33,10,TUZAMAPAN,28-119-05-006,5623,30024,Veracruz de Ignacio de la Llave,Tlaltetela,72
+37,11,TEOCELO,28-119-05-007,11684,30024,Veracruz de Ignacio de la Llave,Tlaltetela,1
+42,12,Tlaltetela (Pinillos),28-119-05-009,5097,30024,Veracruz de Ignacio de la Llave,Tlaltetela,1940
+81,20,CHICHIQUILA,28-119-07-002,20212,30024,Veracruz de Ignacio de la Llave,Tlaltetela,1517
+14,4,MATA DE JOBO,28-119-09-005,5167,30188,Veracruz de Ignacio de la Llave,Totutla,151
+27,8,Tlaltetela (Poxtla),28-119-09-004,19686,30188,Veracruz de Ignacio de la Llave,Totutla,5332
+32,9,TLACUATZINTLA,28-119-09-007,5004,30188,Veracruz de Ignacio de la Llave,Totutla,921
+47,13,XALAPA-ENRIQUEZ,28-119-05-001,9705,30087,Veracruz de Ignacio de la Llave,Xalapa,2770
+52,14,RANCHO VIEJO,28-119-05-002,10431,30092,Veracruz de Ignacio de la Llave,Xico,0
+57,15,SAN MARCOS DE LEON (SAN MARCOS),28-119-05-003,12109,30092,Veracruz de Ignacio de la Llave,Xico,6053
+61,16,XICO,28-119-05-004,9405,30092,Veracruz de Ignacio de la Llave,Xico,9173
+65,17,TONALACO,28-119-05-005,10513,30092,Veracruz de Ignacio de la Llave,Xico,2682
